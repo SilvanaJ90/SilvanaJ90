@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Silvana</h1>
 <h3 align="center">A passionate software developer from Colombia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silvanaj90&label=Profile%20views&color=0e75b6&style=flat" alt="silvanaj90" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvanaj90" alt="silvanaj90" /></a> </p>
-
-- 🔭 I’m currently working on [bh_profile](https://github.com/SilvanaJ90/bh_profile)
 
 - 💬 Ask me about **mysql, sqlalchemy, python**
 
 - 📫 How to reach me **silvanajaramillo@gmail.com**
+
+
+🔭 Some of my proyects
+-  [Tool to profile professional interests and create well-defined roles and profiles](https://github.com/SilvanaJ90/bh_profile)
+-  [AirBnB](https://github.com/Giogap/holbertonschool-AirBnB_clone_v4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
