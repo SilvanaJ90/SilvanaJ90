@@ -10,7 +10,7 @@
 🔭 Some of my proyects
 -  [Tool to profile professional interests and create well-defined roles and profiles](https://github.com/SilvanaJ90/bh_profile)
 -  [AirBnB](https://github.com/Giogap/holbertonschool-AirBnB_clone_v4)
--  [Text encryptor](https://github.com/SilvanaJ90/challengeonecodificador5)
+-  [Text encryptor](https://github.com/SilvanaJ90/challenge_one_sprint-01.github.io)
 
 
 
