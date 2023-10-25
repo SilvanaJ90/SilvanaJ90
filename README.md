@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Colombia.</h3>
 
 
-- 💬 Ask me about **mysql, sqlalchemy, python**
+- 💬 Ask me about **database, python**
 
 - 📫 How to reach me **silvanajaramillo@gmail.com**
 
