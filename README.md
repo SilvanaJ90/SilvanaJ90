@@ -30,6 +30,7 @@
 
 
 [![Top Langs](https://SilvanaJ90.vercel.app/api/top-langs/?username=SilvanaJ90&langs_count=8)](https://github.com/SilvanaJ90/SilvanaJ90)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanaJ90)](https://github.com/SilvanaJ90/github-readme-stats)
 
 
 
