@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Colombia.</h3>
 
 
-- 💬 Ask me about **database, python**
+- 💬 Ask me about **database, python, ML**
 
 
 🔭 Some of my proyects
