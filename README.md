@@ -32,7 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanaJ90&show_icons=true&theme=tokyonight)](https://github.com/SilvanaJ90/github-readme-stats)
 
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvanaj90&show_icons=true&theme=gotham" alt="silvanaj90" /></p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SilvanaJ90&repo=github-readme-stats)](https://github.com/SilvanaJ90/holbertonschool-machine_learning)
