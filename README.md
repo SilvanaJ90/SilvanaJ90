@@ -33,4 +33,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvanaj90&show_icons=true&locale=en" alt="silvanaj90" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvanaj90&show_icons=true&theme=gotham" alt="silvanaj90" /></p>
