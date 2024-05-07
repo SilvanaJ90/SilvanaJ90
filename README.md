@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/silvana-jaramillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvana-jaramillo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/silvanajaramill3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="silvanajaramill3" height="30" width="40" /></a>
+<a href="https://medium.com/@silvanajaramillo90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@silvanajaramillo90" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
