@@ -6,15 +6,13 @@
     <a href="https://www.hackerrank.com/silvanajaramill3" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
 </p>
 
-
-- 👨‍💻 All of my projects are available at [ML Porfolio](https://github.com/SilvanaJ90/ML-Portfolio)
-
 - 📝 I regularly write articles on Machine Learning  <a href="https://medium.com/@silvanajaramillo90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@silvanajaramillo90" height="30" width="40" /></a>
 
 - 💬 Ask me about **Databases, Python, ML, AI and Data Analytics**
 
 
 🔭 Some of my proyects
+-  [Agent SQL](https://github.com/SilvanaJ90/ml_portfolio_project)
 -  [EleganceAI](https://github.com/SilvanaJ90/ML-Portfolio)
 -  [Role profiler](https://github.com/SilvanaJ90/bh_profile)
 -  [AirBnB](https://github.com/Giogap/holbertonschool-AirBnB_clone_v4)
