@@ -12,7 +12,7 @@
 
 
 🔭 Some of my proyects
--  [Agent SQL](https://github.com/SilvanaJ90/ml_portfolio_project)
+-  [SQL Agent ](https://github.com/SilvanaJ90/sql_agent)
 -  [EleganceAI](https://github.com/SilvanaJ90/ML-Portfolio)
 -  [Role profiler](https://github.com/SilvanaJ90/bh_profile)
 -  [AirBnB](https://github.com/Giogap/holbertonschool-AirBnB_clone_v4)
