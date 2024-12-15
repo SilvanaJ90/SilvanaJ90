@@ -9,7 +9,6 @@
 - 📝 I regularly write articles on Machine Learning  <a href="https://medium.com/@silvanajaramillo90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@silvanajaramillo90" height="30" width="40" /></a>
 
 - 💬 Ask me about **Databases, Python, ML, AI and Data Analytics**
-- 
 🚀 Portfolio
 -  [Portfolio ](https://silvanaj90.github.io/)
 
